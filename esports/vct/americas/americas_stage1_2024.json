@@ -1,1 +1,416 @@
-[{"teams": ["kr-esports", "loud"], "matchId": "7dd52370-5173-458f-8590-d89bcf0fee82", "Map": "Ascent", "Date": "April 25th"}, {"teams": ["kr-esports", "loud"], "matchId": "17ce5cee-58cf-49c0-9010-32b97c8528d7", "Map": "Split", "Date": "April 25th"}, {"teams": ["kr-esports", "evil-geniuses"], "matchId": "9797405a-1b2e-4611-adfb-a69977b8fda2", "Map": "Breeze", "Date": "April 21st"}, {"teams": ["kr-esports", "evil-geniuses"], "matchId": "6b795f8e-08f4-4daa-8be3-ea21412f0d16", "Map": "Lotus", "Date": "April 21st"}, {"teams": ["kr-esports", "mibr"], "matchId": "735bcbd9-20f1-4feb-a72a-338509e9a007", "Map": "Sunset", "Date": "April 14th"}, {"teams": ["kr-esports", "mibr"], "matchId": "4439fe18-6b6e-41ef-818f-7ff7b1032db9", "Map": "Icebox", "Date": "April 14th"}, {"teams": ["kr-esports", "furia"], "matchId": "5a70037c-5e40-4b51-a605-0233f4cbd44e", "Map": "Breeze", "Date": "April 8th"}, {"teams": ["kr-esports", "furia"], "matchId": "b256ea8f-37c9-405f-b809-a20b890b29d6", "Map": "Icebox", "Date": "April 8th"}, {"teams": ["kr-esports", "furia"], "matchId": "0cc929a4-0711-4f5d-b1af-466449656bf2", "Map": "Lotus", "Date": "April 8th"}, {"teams": ["nrg-esports", "mibr"], "matchId": "e4b8e5c0-b60d-44bf-aa3a-0923eace02d0", "Map": "Breeze", "Date": "April 24th"}, {"teams": ["nrg-esports", "mibr"], "matchId": "a66e4886-6250-4893-bbb0-4e9d26b4cb4e", "Map": "Split", "Date": "April 24th"}, {"teams": ["nrg-esports", "leviat-n"], "matchId": "c65e0fcf-a118-44b3-8f8f-e04a94916c66", "Map": "Bind", "Date": "April 22nd"}, {"teams": ["nrg-esports", "leviat-n"], "matchId": "40ad3124-b9f0-4177-ad0f-eabf1a19664a", "Map": "Sunset", "Date": "April 22nd"}, {"teams": ["nrg-esports", "furia"], "matchId": "0c24d67b-84d9-4518-a715-257535e7209d", "Map": "Breeze", "Date": "April 15th"}, {"teams": ["nrg-esports", "furia"], "matchId": "7588dd24-ccae-47ca-ad87-a3c0933b1d13", "Map": "Split", "Date": "April 15th"}, {"teams": ["nrg-esports", "loud"], "matchId": "a0b9831c-3ce8-4893-ac04-62a298bf45b7", "Map": "Sunset", "Date": "April 7th"}, {"teams": ["nrg-esports", "loud"], "matchId": "668411d2-7082-4b42-822b-6d5cc808e77c", "Map": "Breeze", "Date": "April 7th"}, {"teams": ["cloud9", "100-thieves"], "matchId": "fe8d2680-86f6-4031-ac94-1eb3293b561b", "Map": "Ascent", "Date": "April 23rd"}, {"teams": ["cloud9", "100-thieves"], "matchId": "0dbc9df3-8a98-49e0-92a5-69a703ec1c17", "Map": "Bind", "Date": "April 23rd"}, {"teams": ["cloud9", "loud"], "matchId": "0bbb5c0a-dbf1-4294-8bd7-a84bfc1bf029", "Map": "Lotus", "Date": "April 21st"}, {"teams": ["cloud9", "loud"], "matchId": "26c3e64f-6afc-427a-83d8-369600a8b92b", "Map": "Icebox", "Date": "April 21st"}, {"teams": ["cloud9", "loud"], "matchId": "d35efbc3-0b1e-4605-a3b4-a4f646bf3d1c", "Map": "Bind", "Date": "April 21st"}, {"teams": ["cloud9", "evil-geniuses"], "matchId": "a51a7e0f-0ebf-45ff-a322-7c3e3d8e15ed", "Map": "Split", "Date": "April 15th"}, {"teams": ["cloud9", "evil-geniuses"], "matchId": "92e90e18-14e0-4148-89d5-fd38dea7abed", "Map": "Sunset", "Date": "April 15th"}, {"teams": ["cloud9", "evil-geniuses"], "matchId": "1a61740a-68c3-4deb-b190-4d989c9677fb", "Map": "Lotus", "Date": "April 15th"}, {"teams": ["cloud9", "leviat-n"], "matchId": "63dd590a-84ff-4b73-8f53-a5cee56c5ab9", "Map": "Ascent", "Date": "April 6th"}, {"teams": ["cloud9", "leviat-n"], "matchId": "4e6cd9d1-da40-4d76-928a-a623bda44143", "Map": "Sunset", "Date": "April 6th"}, {"teams": ["cloud9", "leviat-n"], "matchId": "0a93ccf6-40f7-4eea-9e00-9d28b4fdde2e", "Map": "Icebox", "Date": "April 6th"}, {"teams": ["sentinels", "evil-geniuses"], "matchId": "4a956e9a-4ace-4e0f-bc28-dba83e6d39ee", "Map": "Sunset", "Date": "April 23rd"}, {"teams": ["sentinels", "evil-geniuses"], "matchId": "c8176308-5a4f-4204-af0b-50c2580f75f9", "Map": "Bind", "Date": "April 23rd"}, {"teams": ["sentinels", "evil-geniuses"], "matchId": "5fb2e9c9-9e94-4fdf-b659-0f38a19194d0", "Map": "Lotus", "Date": "April 23rd"}, {"teams": ["sentinels", "mibr"], "matchId": "2e468358-8de4-495c-bb77-fde294e77180", "Map": "Bind", "Date": "April 20th"}, {"teams": ["sentinels", "mibr"], "matchId": "fe29a3a3-ab70-470b-8e50-906555bbd1ef", "Map": "Lotus", "Date": "April 20th"}, {"teams": ["sentinels", "leviat-n"], "matchId": "2740839c-1857-47c5-be2f-ff30e94d6c0b", "Map": "Icebox", "Date": "April 14th"}, {"teams": ["sentinels", "leviat-n"], "matchId": "67b22867-fe84-44b0-978a-2ef832849e1e", "Map": "Lotus", "Date": "April 14th"}, {"teams": ["sentinels", "100-thieves"], "matchId": "6a9ad259-3ef7-419c-8d4e-756cd9c2c35a", "Map": "Split", "Date": "April 8th"}, {"teams": ["sentinels", "100-thieves"], "matchId": "a61c7246-7808-4e51-99ff-7a500f1d7e61", "Map": "Icebox", "Date": "April 8th"}, {"teams": ["g2-esports", "leviat-n"], "matchId": "dba1062f-bef8-4198-bf22-92cd2f68b74e", "Map": "Lotus", "Date": "April 24th"}, {"teams": ["g2-esports", "leviat-n"], "matchId": "c2eb5c56-a3e8-4fb6-8793-98a1b20c9e15", "Map": "Icebox", "Date": "April 24th"}, {"teams": ["g2-esports", "leviat-n"], "matchId": "b60c61e6-3ee1-4629-ae36-7c802f5a7512", "Map": "Breeze", "Date": "April 24th"}, {"teams": ["g2-esports", "furia"], "matchId": "59db4e32-9a0a-4ad5-905e-6ca7c9fcd29a", "Map": "Icebox", "Date": "April 22nd"}, {"teams": ["g2-esports", "furia"], "matchId": "6d185e9d-34bb-47ea-9e9b-780a3d971518", "Map": "Lotus", "Date": "April 22nd"}, {"teams": ["g2-esports", "100-thieves"], "matchId": "def0fc33-04d3-4fc3-84f9-821c363a99c9", "Map": "Split", "Date": "April 13th"}, {"teams": ["g2-esports", "100-thieves"], "matchId": "095ed097-3607-4b92-ba82-20f9fabf1637", "Map": "Bind", "Date": "April 13th"}, {"teams": ["g2-esports", "evil-geniuses"], "matchId": "7ef84712-fbc8-4e9b-8436-e69629f7b927", "Map": "Icebox", "Date": "April 7th"}, {"teams": ["g2-esports", "evil-geniuses"], "matchId": "64bada08-53f0-4286-875f-751e353422a0", "Map": "Lotus", "Date": "April 7th"}]
+[
+    {
+        "teams": [
+            "kr-esports",
+            "loud"
+        ],
+        "matchId": "7dd52370-5173-458f-8590-d89bcf0fee82",
+        "Map": "Ascent",
+        "Date": "April 25th"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "loud"
+        ],
+        "matchId": "17ce5cee-58cf-49c0-9010-32b97c8528d7",
+        "Map": "Split",
+        "Date": "April 25th"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "evil-geniuses"
+        ],
+        "matchId": "9797405a-1b2e-4611-adfb-a69977b8fda2",
+        "Map": "Breeze",
+        "Date": "April 21st"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "evil-geniuses"
+        ],
+        "matchId": "6b795f8e-08f4-4daa-8be3-ea21412f0d16",
+        "Map": "Lotus",
+        "Date": "April 21st"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "mibr"
+        ],
+        "matchId": "735bcbd9-20f1-4feb-a72a-338509e9a007",
+        "Map": "Sunset",
+        "Date": "April 14th"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "mibr"
+        ],
+        "matchId": "4439fe18-6b6e-41ef-818f-7ff7b1032db9",
+        "Map": "Icebox",
+        "Date": "April 14th"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "furia"
+        ],
+        "matchId": "5a70037c-5e40-4b51-a605-0233f4cbd44e",
+        "Map": "Breeze",
+        "Date": "April 8th"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "furia"
+        ],
+        "matchId": "b256ea8f-37c9-405f-b809-a20b890b29d6",
+        "Map": "Icebox",
+        "Date": "April 8th"
+    },
+    {
+        "teams": [
+            "kr-esports",
+            "furia"
+        ],
+        "matchId": "0cc929a4-0711-4f5d-b1af-466449656bf2",
+        "Map": "Lotus",
+        "Date": "April 8th"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "mibr"
+        ],
+        "matchId": "e4b8e5c0-b60d-44bf-aa3a-0923eace02d0",
+        "Map": "Breeze",
+        "Date": "April 24th"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "mibr"
+        ],
+        "matchId": "a66e4886-6250-4893-bbb0-4e9d26b4cb4e",
+        "Map": "Split",
+        "Date": "April 24th"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "leviat-n"
+        ],
+        "matchId": "c65e0fcf-a118-44b3-8f8f-e04a94916c66",
+        "Map": "Bind",
+        "Date": "April 22nd"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "leviat-n"
+        ],
+        "matchId": "40ad3124-b9f0-4177-ad0f-eabf1a19664a",
+        "Map": "Sunset",
+        "Date": "April 22nd"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "furia"
+        ],
+        "matchId": "0c24d67b-84d9-4518-a715-257535e7209d",
+        "Map": "Breeze",
+        "Date": "April 15th"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "furia"
+        ],
+        "matchId": "7588dd24-ccae-47ca-ad87-a3c0933b1d13",
+        "Map": "Split",
+        "Date": "April 15th"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "loud"
+        ],
+        "matchId": "a0b9831c-3ce8-4893-ac04-62a298bf45b7",
+        "Map": "Sunset",
+        "Date": "April 7th"
+    },
+    {
+        "teams": [
+            "nrg-esports",
+            "loud"
+        ],
+        "matchId": "668411d2-7082-4b42-822b-6d5cc808e77c",
+        "Map": "Breeze",
+        "Date": "April 7th"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "100-thieves"
+        ],
+        "matchId": "fe8d2680-86f6-4031-ac94-1eb3293b561b",
+        "Map": "Ascent",
+        "Date": "April 23rd"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "100-thieves"
+        ],
+        "matchId": "0dbc9df3-8a98-49e0-92a5-69a703ec1c17",
+        "Map": "Bind",
+        "Date": "April 23rd"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "loud"
+        ],
+        "matchId": "0bbb5c0a-dbf1-4294-8bd7-a84bfc1bf029",
+        "Map": "Lotus",
+        "Date": "April 21st"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "loud"
+        ],
+        "matchId": "26c3e64f-6afc-427a-83d8-369600a8b92b",
+        "Map": "Icebox",
+        "Date": "April 21st"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "loud"
+        ],
+        "matchId": "d35efbc3-0b1e-4605-a3b4-a4f646bf3d1c",
+        "Map": "Bind",
+        "Date": "April 21st"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "evil-geniuses"
+        ],
+        "matchId": "a51a7e0f-0ebf-45ff-a322-7c3e3d8e15ed",
+        "Map": "Split",
+        "Date": "April 15th"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "evil-geniuses"
+        ],
+        "matchId": "92e90e18-14e0-4148-89d5-fd38dea7abed",
+        "Map": "Sunset",
+        "Date": "April 15th"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "evil-geniuses"
+        ],
+        "matchId": "1a61740a-68c3-4deb-b190-4d989c9677fb",
+        "Map": "Lotus",
+        "Date": "April 15th"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "leviat-n"
+        ],
+        "matchId": "63dd590a-84ff-4b73-8f53-a5cee56c5ab9",
+        "Map": "Ascent",
+        "Date": "April 6th"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "leviat-n"
+        ],
+        "matchId": "4e6cd9d1-da40-4d76-928a-a623bda44143",
+        "Map": "Sunset",
+        "Date": "April 6th"
+    },
+    {
+        "teams": [
+            "cloud9",
+            "leviat-n"
+        ],
+        "matchId": "0a93ccf6-40f7-4eea-9e00-9d28b4fdde2e",
+        "Map": "Icebox",
+        "Date": "April 6th"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "evil-geniuses"
+        ],
+        "matchId": "4a956e9a-4ace-4e0f-bc28-dba83e6d39ee",
+        "Map": "Sunset",
+        "Date": "April 23rd"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "evil-geniuses"
+        ],
+        "matchId": "c8176308-5a4f-4204-af0b-50c2580f75f9",
+        "Map": "Bind",
+        "Date": "April 23rd"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "evil-geniuses"
+        ],
+        "matchId": "5fb2e9c9-9e94-4fdf-b659-0f38a19194d0",
+        "Map": "Lotus",
+        "Date": "April 23rd"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "mibr"
+        ],
+        "matchId": "2e468358-8de4-495c-bb77-fde294e77180",
+        "Map": "Bind",
+        "Date": "April 20th"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "mibr"
+        ],
+        "matchId": "fe29a3a3-ab70-470b-8e50-906555bbd1ef",
+        "Map": "Lotus",
+        "Date": "April 20th"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "leviat-n"
+        ],
+        "matchId": "2740839c-1857-47c5-be2f-ff30e94d6c0b",
+        "Map": "Icebox",
+        "Date": "April 14th"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "leviat-n"
+        ],
+        "matchId": "67b22867-fe84-44b0-978a-2ef832849e1e",
+        "Map": "Lotus",
+        "Date": "April 14th"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "100-thieves"
+        ],
+        "matchId": "6a9ad259-3ef7-419c-8d4e-756cd9c2c35a",
+        "Map": "Split",
+        "Date": "April 8th"
+    },
+    {
+        "teams": [
+            "sentinels",
+            "100-thieves"
+        ],
+        "matchId": "a61c7246-7808-4e51-99ff-7a500f1d7e61",
+        "Map": "Icebox",
+        "Date": "April 8th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "leviat-n"
+        ],
+        "matchId": "dba1062f-bef8-4198-bf22-92cd2f68b74e",
+        "Map": "Lotus",
+        "Date": "April 24th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "leviat-n"
+        ],
+        "matchId": "c2eb5c56-a3e8-4fb6-8793-98a1b20c9e15",
+        "Map": "Icebox",
+        "Date": "April 24th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "leviat-n"
+        ],
+        "matchId": "b60c61e6-3ee1-4629-ae36-7c802f5a7512",
+        "Map": "Breeze",
+        "Date": "April 24th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "furia"
+        ],
+        "matchId": "59db4e32-9a0a-4ad5-905e-6ca7c9fcd29a",
+        "Map": "Icebox",
+        "Date": "April 22nd"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "furia"
+        ],
+        "matchId": "6d185e9d-34bb-47ea-9e9b-780a3d971518",
+        "Map": "Lotus",
+        "Date": "April 22nd"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "100-thieves"
+        ],
+        "matchId": "def0fc33-04d3-4fc3-84f9-821c363a99c9",
+        "Map": "Split",
+        "Date": "April 13th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "100-thieves"
+        ],
+        "matchId": "095ed097-3607-4b92-ba82-20f9fabf1637",
+        "Map": "Bind",
+        "Date": "April 13th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "evil-geniuses"
+        ],
+        "matchId": "7ef84712-fbc8-4e9b-8436-e69629f7b927",
+        "Map": "Icebox",
+        "Date": "April 7th"
+    },
+    {
+        "teams": [
+            "g2-esports",
+            "evil-geniuses"
+        ],
+        "matchId": "64bada08-53f0-4286-875f-751e353422a0",
+        "Map": "Lotus",
+        "Date": "April 7th"
+    }
+]
