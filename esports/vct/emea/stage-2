@@ -1,0 +1,722 @@
+[
+    {
+        "teams": [
+            "fnatic",
+            "team-vitality"
+        ],
+        "matchId": "60913768-6987-4235-be33-0384f4e88523",
+        "Map": "Bind",
+        "Date": "July 20th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-vitality"
+        ],
+        "matchId": "59baa2df-98f2-4fb3-bb57-d3773e7a26ef",
+        "Map": "Lotus",
+        "Date": "July 20th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-vitality"
+        ],
+        "matchId": "c553f8d4-2af9-4e49-bfe2-c044e96b7968",
+        "Map": "Ascent",
+        "Date": "July 20th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-vitality"
+        ],
+        "matchId": "f1005b33-bdf2-4de9-a543-9196f16890ea",
+        "Map": "Haven",
+        "Date": "July 20th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "team-heretics"
+        ],
+        "matchId": "b4d9072f-fd3d-405d-8054-37057340f91f",
+        "Map": "Haven",
+        "Date": "July 19th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "team-heretics"
+        ],
+        "matchId": "d41fdd61-6074-4651-a1f7-7c78db382d36",
+        "Map": "Lotus",
+        "Date": "July 19th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "team-heretics"
+        ],
+        "matchId": "ff3b7ede-6c9d-4427-9b69-ddaa0d001812",
+        "Map": "Sunset",
+        "Date": "July 19th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "team-heretics"
+        ],
+        "matchId": "bc5fc00b-dd7a-4ed2-bd2a-72b5ed07ef59",
+        "Map": "Icebox",
+        "Date": "July 19th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "fnatic"
+        ],
+        "matchId": "abeb73b7-00b7-4c8c-b8fc-e919d0d9e3b7",
+        "Map": "Sunset",
+        "Date": "July 17th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "fnatic"
+        ],
+        "matchId": "755fa87f-e547-420d-9a39-4e9290d35271",
+        "Map": "Lotus",
+        "Date": "July 17th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "team-vitality"
+        ],
+        "matchId": "1051ed4b-8298-4ce4-8f87-9d169de9c9ef",
+        "Map": "Bind",
+        "Date": "July 16th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "team-vitality"
+        ],
+        "matchId": "7f87a833-8d8f-4ee0-8013-8dc4c37c1ac5",
+        "Map": "Sunset",
+        "Date": "July 16th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "natus-vincere"
+        ],
+        "matchId": "9ad22bf4-5eb1-473f-b05b-15b8a09d74ab",
+        "Map": "Ascent",
+        "Date": "July 15th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "natus-vincere"
+        ],
+        "matchId": "ec37d798-dbc1-43e1-aafa-a84e65ff099b",
+        "Map": "Sunset",
+        "Date": "July 15th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "natus-vincere"
+        ],
+        "matchId": "151667e6-045c-43cf-9c5f-ae64ffeca85d",
+        "Map": "Haven",
+        "Date": "July 15th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "karmine-corp"
+        ],
+        "matchId": "544d6e0e-6178-4e6e-802e-93b2efc57ea7",
+        "Map": "Sunset",
+        "Date": "July 11th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "karmine-corp"
+        ],
+        "matchId": "b4f0fa6b-4b4f-40b1-8dd6-c9ba94cec714",
+        "Map": "Lotus",
+        "Date": "July 11th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "karmine-corp"
+        ],
+        "matchId": "42f6516e-c7f9-4613-a1ac-826024842e07",
+        "Map": "Icebox",
+        "Date": "July 11th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "team-vitality"
+        ],
+        "matchId": "cc480949-b48f-4409-a913-902b6ab2e97e",
+        "Map": "Lotus",
+        "Date": "July 5th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "team-vitality"
+        ],
+        "matchId": "833f1a02-ceac-4c34-b49c-e8d8306aac6d",
+        "Map": "Sunset",
+        "Date": "July 5th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "team-vitality"
+        ],
+        "matchId": "3c6d4b25-4eb8-4c71-ac01-8e88f6205cc2",
+        "Map": "Ascent",
+        "Date": "July 5th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-vitality"
+        ],
+        "matchId": "53912314-1631-4840-86ea-5c2e874b2bf3",
+        "Map": "Lotus",
+        "Date": "June 26th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-vitality"
+        ],
+        "matchId": "cc9ca7dd-378e-470b-8b5c-7e53b1441cd6",
+        "Map": "Icebox",
+        "Date": "June 26th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "team-liquid"
+        ],
+        "matchId": "52c96734-75f8-42df-9d26-59bc804c9298",
+        "Map": "Lotus",
+        "Date": "June 20th"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "gentle-mates"
+        ],
+        "matchId": "625a9b4e-d325-48ae-bf96-83d2104d0de6",
+        "Map": "Split",
+        "Date": "July 11th"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "gentle-mates"
+        ],
+        "matchId": "860c1c1c-4939-4d1b-98ef-aa97480ea2c8",
+        "Map": "Ascent",
+        "Date": "July 11th"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "gentle-mates"
+        ],
+        "matchId": "e2abf494-e5dc-4188-9e22-ce128bd1e9c6",
+        "Map": "Sunset",
+        "Date": "July 11th"
+    },
+    {
+        "teams": [
+            "koi",
+            "natus-vincere"
+        ],
+        "matchId": "8ec23b02-cc5d-436c-8f02-8988626d801b",
+        "Map": "Icebox",
+        "Date": "July 4th"
+    },
+    {
+        "teams": [
+            "koi",
+            "natus-vincere"
+        ],
+        "matchId": "6875853a-2625-4eb6-942a-49c3db85ec82",
+        "Map": "Split",
+        "Date": "July 4th"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "giantx"
+        ],
+        "matchId": "519ecbfd-f20b-4de2-bd00-dcf772873201",
+        "Map": "Ascent",
+        "Date": "June 27th"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "giantx"
+        ],
+        "matchId": "f27e6f49-30d7-4268-b960-34904699b78f",
+        "Map": "Lotus",
+        "Date": "June 27th"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "fut-esports"
+        ],
+        "matchId": "123a2b05-fd35-4824-9d5d-739f21bc13a1",
+        "Map": "Lotus",
+        "Date": "June 21st"
+    },
+    {
+        "teams": [
+            "natus-vincere",
+            "fut-esports"
+        ],
+        "matchId": "f13b32c7-5fe5-43fd-9824-fceb8ca414f1",
+        "Map": "Ascent",
+        "Date": "June 21st"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "natus-vincere"
+        ],
+        "matchId": "4cde9ed6-55f7-4b36-a902-ebe7ebc926c7",
+        "Map": "Sunset",
+        "Date": "June 19th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "natus-vincere"
+        ],
+        "matchId": "38720cd6-abb6-44aa-a12f-5050a0b549e5",
+        "Map": "Bind",
+        "Date": "June 19th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "fut-esports"
+        ],
+        "matchId": "91189cdf-f9e9-4b6e-8ed1-24398b51b04e",
+        "Map": "Sunset",
+        "Date": "July 17th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "fut-esports"
+        ],
+        "matchId": "603bc87c-cc77-4f8a-9e5c-1e150d21cb75",
+        "Map": "Abyss",
+        "Date": "July 17th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "fnatic"
+        ],
+        "matchId": "0f94f49f-b2a9-43eb-b7da-5aeab4508153",
+        "Map": "Haven",
+        "Date": "July 16th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "fnatic"
+        ],
+        "matchId": "97f183e5-dd39-4b64-8083-189a35edbe68",
+        "Map": "Sunset",
+        "Date": "July 16th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "giantx"
+        ],
+        "matchId": "5dc6e23e-3a71-4466-88a4-c38e4f250007",
+        "Map": "Lotus",
+        "Date": "July 9th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "giantx"
+        ],
+        "matchId": "1194b111-1664-424a-b7c6-623e8a511787",
+        "Map": "Split",
+        "Date": "July 9th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "gentle-mates"
+        ],
+        "matchId": "5de66ae9-50df-4f43-8aa1-4c9242be4ea0",
+        "Map": "Split",
+        "Date": "July 3rd"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "gentle-mates"
+        ],
+        "matchId": "679b7036-d094-40e0-b695-21b781b01187",
+        "Map": "Sunset",
+        "Date": "July 3rd"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "fut-esports"
+        ],
+        "matchId": "511ce79d-4575-4c15-983b-67e1af669ac1",
+        "Map": "Bind",
+        "Date": "June 26th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "fut-esports"
+        ],
+        "matchId": "a42cd669-56e4-4d56-acc4-bdf7aef45272",
+        "Map": "Split",
+        "Date": "June 26th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "koi"
+        ],
+        "matchId": "5957a09b-f8bc-4044-a961-40b022a15eae",
+        "Map": "Sunset",
+        "Date": "June 18th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "koi"
+        ],
+        "matchId": "94120424-1df7-4e0f-804a-b6b401a72903",
+        "Map": "Lotus",
+        "Date": "June 18th"
+    },
+    {
+        "teams": [
+            "fut-esports",
+            "koi"
+        ],
+        "matchId": "0b10368f-4dd6-4de3-851f-4bb5982d0f5b",
+        "Map": "Split",
+        "Date": "June 18th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "koi"
+        ],
+        "matchId": "de15cc72-b41c-4d54-90ab-4a44bfd0e53f",
+        "Map": "Haven",
+        "Date": "July 10th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "koi"
+        ],
+        "matchId": "664afb5d-a724-4f6c-bdf3-c8b7bc3d30c1",
+        "Map": "Bind",
+        "Date": "July 10th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "koi"
+        ],
+        "matchId": "65709c9c-8a14-49e6-bd17-5a75437528a8",
+        "Map": "Icebox",
+        "Date": "July 10th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "gentle-mates"
+        ],
+        "matchId": "e561dfbe-a3c0-4c73-b6f9-d89583d745be",
+        "Map": "Lotus",
+        "Date": "July 5th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "gentle-mates"
+        ],
+        "matchId": "a2152ede-5d5f-402b-9bef-b4fd8885bf96",
+        "Map": "Icebox",
+        "Date": "July 5th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "gentle-mates"
+        ],
+        "matchId": "2e0a14ec-88db-491c-89ae-fa5287f9e698",
+        "Map": "Sunset",
+        "Date": "July 5th"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "giantx"
+        ],
+        "matchId": "f29f64e8-85fe-4a8b-bd48-13be3a5b7713",
+        "Map": "Haven",
+        "Date": "July 3rd"
+    },
+    {
+        "teams": [
+            "team-heretics",
+            "giantx"
+        ],
+        "matchId": "1a756868-37d2-4b86-b775-58616e1cd867",
+        "Map": "Split",
+        "Date": "July 3rd"
+    },
+    {
+        "teams": [
+            "koi",
+            "gentle-mates"
+        ],
+        "matchId": "9d1389b8-5e91-4902-b422-13573ec5fe6d",
+        "Map": "Split",
+        "Date": "June 28th"
+    },
+    {
+        "teams": [
+            "koi",
+            "gentle-mates"
+        ],
+        "matchId": "926c8a24-9915-474d-8451-42983a804383",
+        "Map": "Sunset",
+        "Date": "June 28th"
+    },
+    {
+        "teams": [
+            "giantx",
+            "gentle-mates"
+        ],
+        "matchId": "cd030b75-6958-4c90-833d-99f9c14485c1",
+        "Map": "Breeze",
+        "Date": "June 20th"
+    },
+    {
+        "teams": [
+            "giantx",
+            "gentle-mates"
+        ],
+        "matchId": "b580a1ba-9e84-4c75-9f57-09e1e96fc99a",
+        "Map": "Sunset",
+        "Date": "June 20th"
+    },
+    {
+        "teams": [
+            "giantx",
+            "gentle-mates"
+        ],
+        "matchId": "8c2e0c1b-77a7-43e3-b75b-62e13d1029b7",
+        "Map": "Split",
+        "Date": "June 20th"
+    },
+    {
+        "teams": [
+            "koi",
+            "giantx"
+        ],
+        "matchId": "29245286-4105-4c1f-bde5-2a7995be22f2",
+        "Map": "Icebox",
+        "Date": "June 25th"
+    },
+    {
+        "teams": [
+            "koi",
+            "giantx"
+        ],
+        "matchId": "7e0a9865-9c8e-4e32-84f7-1c0037b09121",
+        "Map": "Sunset",
+        "Date": "June 25th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "karmine-corp"
+        ],
+        "matchId": "84f4085b-66e3-4291-b738-7b163939a088",
+        "Map": "Lotus",
+        "Date": "July 15th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "karmine-corp"
+        ],
+        "matchId": "bdd6110d-6631-48c7-8c23-f310672c8e94",
+        "Map": "Sunset",
+        "Date": "July 15th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "karmine-corp"
+        ],
+        "matchId": "3a550832-7113-4b5e-8e02-cc6569e31fd2",
+        "Map": "Icebox",
+        "Date": "July 15th"
+    },
+    {
+        "teams": [
+            "team-liquid",
+            "karmine-corp"
+        ],
+        "matchId": "9be0c21d-8084-4f47-85ad-672848c8f0bb",
+        "Map": "Sunset",
+        "Date": "July 4th"
+    },
+    {
+        "teams": [
+            "team-liquid",
+            "karmine-corp"
+        ],
+        "matchId": "94ece8f2-277b-4344-bfab-a3f1d2b69b1a",
+        "Map": "Bind",
+        "Date": "July 4th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "karmine-corp"
+        ],
+        "matchId": "93c50783-6747-4634-90a4-68e5526e5278",
+        "Map": "Lotus",
+        "Date": "June 28th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "karmine-corp"
+        ],
+        "matchId": "7d8dbb22-a36e-498c-bf20-318ee646a331",
+        "Map": "Haven",
+        "Date": "June 28th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "karmine-corp"
+        ],
+        "matchId": "6018a268-7bec-4c63-a3e6-164a501a89b2",
+        "Map": "Sunset",
+        "Date": "June 21st"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "karmine-corp"
+        ],
+        "matchId": "9f9f6450-58c5-467c-b1bd-f43701385fcc",
+        "Map": "Lotus",
+        "Date": "June 21st"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-liquid"
+        ],
+        "matchId": "5bdf7d09-90b7-4c89-9e89-5b058216c818",
+        "Map": "Haven",
+        "Date": "July 10th"
+    },
+    {
+        "teams": [
+            "fnatic",
+            "team-liquid"
+        ],
+        "matchId": "bd5193db-7a70-4264-bb66-692f7b288a3b",
+        "Map": "Icebox",
+        "Date": "July 10th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "team-liquid"
+        ],
+        "matchId": "eb679b67-cea3-4621-8347-25417fecf80c",
+        "Map": "Ascent",
+        "Date": "June 27th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "team-liquid"
+        ],
+        "matchId": "eef183f5-f6f9-4140-9546-759aef71c3ad",
+        "Map": "Lotus",
+        "Date": "June 27th"
+    },
+    {
+        "teams": [
+            "team-vitality",
+            "team-liquid"
+        ],
+        "matchId": "0f3c6359-fd70-44ae-b42a-c9c325904e75",
+        "Map": "Icebox",
+        "Date": "June 20th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "fnatic"
+        ],
+        "matchId": "70420025-d307-454a-a161-e55152669069",
+        "Map": "Haven",
+        "Date": "June 19th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "fnatic"
+        ],
+        "matchId": "57d7f83a-e23e-4a75-b412-56b54b003731",
+        "Map": "Lotus",
+        "Date": "June 19th"
+    },
+    {
+        "teams": [
+            "bbl-esports",
+            "fnatic"
+        ],
+        "matchId": "1500eda7-7572-4c92-a902-3597af73c313",
+        "Map": "Bind",
+        "Date": "June 19th"
+    }
+]
